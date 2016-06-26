@@ -8,6 +8,8 @@ Setup your own project based on this repository. Just run the following command:
 * `brunch new your-app-name -s gh:fabiofilli/elm-brunch-setup`
 
 * `cd your-app-name`
+* `npm install`
+* `elm package install`
 * `brunch watch --server`
 
 Now you should see `Hello World!` on `http://localhost:3333/`. Have fun!
@@ -17,7 +19,7 @@ Now you should see `Hello World!` on `http://localhost:3333/`. Have fun!
     * `brew install elm` on OS X
     * `npm install -g elm` on Linux, ...
 * More Infos:
-    * [Elm](http://elm-lang.org)
+    * [elm-lang.org](http://elm-lang.org)
 
 ## Brunch - getting started
 * Install (if you don't have them):
