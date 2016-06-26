@@ -2,7 +2,24 @@
 
 A [Brunch](http://brunch.io) build tool setup for [Elm](http://elm-lang.org) 0.17.
 
-## Getting started with Brunch
+## Setup your own Elm-Brunch project
+Setup your own project based on this repository. Just run the following command:
+
+`brunch new your-app-name -s gh:fabiofilli/elm-brunch-setup`
+
+`cd your-app-name`
+`brunch watch --server`
+
+Now you should see `Hello World!` on `http://localhost:3333/`. Have fun!
+
+## Elm - getting started
+* Install:
+    * `brew install elm` on OS X
+    * `npm install -g elm` on Linux, ...
+* More Infos:
+    * [Elm](http://elm-lang.org)
+
+## Brunch - getting started
 * Install (if you don't have them):
     * [Node.js](http://nodejs.org): `brew install node` on OS X
     * [Brunch](http://brunch.io): `npm install -g brunch`
