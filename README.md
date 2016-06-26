@@ -5,10 +5,10 @@ A [Brunch](http://brunch.io) build tool setup for [Elm](http://elm-lang.org) 0.1
 ## Setup your own Elm-Brunch project
 Setup your own project based on this repository. Just run the following command:
 
-`brunch new your-app-name -s gh:fabiofilli/elm-brunch-setup`
+* `brunch new your-app-name -s gh:fabiofilli/elm-brunch-setup`
 
-`cd your-app-name`
-`brunch watch --server`
+* `cd your-app-name`
+* `brunch watch --server`
 
 Now you should see `Hello World!` on `http://localhost:3333/`. Have fun!
 
