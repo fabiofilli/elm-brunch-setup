@@ -1,8 +1,8 @@
-# Brunch app
+# Elm with Brunch (build tool) setup
 
-This is HTML5 application, built with [Brunch](http://brunch.io).
+A [Brunch](http://brunch.io) build tool setup for [Elm](http://elm-lang.org) 0.17.
 
-## Getting started
+## Getting started with Brunch
 * Install (if you don't have them):
     * [Node.js](http://nodejs.org): `brew install node` on OS X
     * [Brunch](http://brunch.io): `npm install -g brunch`
