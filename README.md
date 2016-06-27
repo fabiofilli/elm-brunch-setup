@@ -2,8 +2,8 @@
 
 A [Brunch](http://brunch.io) build tool setup for [Elm](http://elm-lang.org) 0.17.
 
-## Setup your own Elm-Brunch project
-Setup your own project based on this repository. Just run the following command:
+## Set up your own Elm-Brunch project
+Set up your own project based on this repository. Just run the following command:
 
 * `brunch new your-app-name -s gh:fabiofilli/elm-brunch-setup`
 
@@ -14,14 +14,18 @@ Setup your own project based on this repository. Just run the following command:
 
 Now you should see `Hello World!` on `http://localhost:3333/`. Have fun!
 
-## Elm - getting started
+## Todo's
+- [ ] Create optimized production build for elm main.js
+
+## Further information
+### Elm - getting started
 * Install:
     * `brew install elm` on OS X
     * `npm install -g elm` on Linux, ...
-* More Infos:
+* More infos:
     * [elm-lang.org](http://elm-lang.org)
 
-## Brunch - getting started
+### Brunch - getting started
 * Install (if you don't have them):
     * [Node.js](http://nodejs.org): `brew install node` on OS X
     * [Brunch](http://brunch.io): `npm install -g brunch`
@@ -33,3 +37,6 @@ Now you should see `Hello World!` on `http://localhost:3333/`. Have fun!
     * `public/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
+
+## License and Copyrights
+[The MIT license](https://github.com/fabiofilli/elm-brunch-setup/blob/master/LICENSE)
